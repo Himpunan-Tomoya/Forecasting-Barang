@@ -37,7 +37,7 @@ if (!$_GET["page"]) {
       <!-- Left navbar links -->
       <ul class="navbar-nav">
         <a href="index.php" class="navbar-brand">
-          Forecasting Pengunjung
+          Forecasting
         </a>
       </ul>
 
@@ -75,7 +75,7 @@ if (!$_GET["page"]) {
       <strong>Copyright &copy; 2021 MRP.</strong>
       All rights reserved.
       <div class="float-right d-none d-sm-inline-block">
-        <b>Forecasting Pengunjung</b> 1.0a-preview
+        <b>Forecasting</b> 1.0a-preview
       </div>
     </footer>
   </div>

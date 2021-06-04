@@ -9,7 +9,7 @@
                 </div>
                 <div class="col-sm-6">
                     <ol class="breadcrumb float-sm-right">
-                        <li class="breadcrumb-item"><a href="#">Forecasting Barang</a></li>
+                        <li class="breadcrumb-item"><a href="#">Forecasting</a></li>
                         <li class="breadcrumb-item active">Beranda</li>
                     </ol>
                 </div>
@@ -79,7 +79,7 @@
                 <!--Forecast-->
                 <div class="col-lg-4">
                     <div class="card">
-                        <a href="index.php?page=return-book">
+                        <a href="index.php?page=forecast-data">
                             <div class="card-header border-1">
                                 <!--icon-->
                                 <div class="d-flex justify-content-center">
